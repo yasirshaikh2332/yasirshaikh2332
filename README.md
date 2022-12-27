@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![MasterHead]( 2000_600px.gif (1600×480) (bp.blogspot.com)](https://rishavchanda.io) 
+[![MasterHead]( 2000_600px.gif (1600×480)]
 <h1 align="center">Hi 👋, I'm Yasir</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img  align="right" alt="Coding" width="400" src=" programmer.gif (800×600) (dribbble.com)">
