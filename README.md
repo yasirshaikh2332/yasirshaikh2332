@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **MERN**
 
 - 📫 How to reach me **yasirshaikh0581@gmail.com**
 
