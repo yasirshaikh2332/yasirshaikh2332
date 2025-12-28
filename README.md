@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **MERN**
 
-- 📫 How to reach me **yasirshaikh0581@gmail.com**
+- 📫 How to reach me ****mohammad27301@gmail.com**
 
 - ⚡ Fun fact **I am Introvert**
 
